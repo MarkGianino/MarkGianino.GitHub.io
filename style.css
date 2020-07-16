@@ -1,0 +1,26 @@
+
+/* tag- use for all elements of this tag */
+h1 {
+    color: green;
+}
+body {
+    background-color: green;
+    margin: 50;
+}
+
+/* class- use for many elements */
+.pink {
+    color: pink;
+    background-color: yellow;
+}
+.center {
+    text-align: center;
+}
+.float_left {
+    float:left;
+}
+
+/* id- use for only one */
+#yerba {
+    width: 50%;
+}
